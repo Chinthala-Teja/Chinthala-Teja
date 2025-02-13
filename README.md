@@ -3,7 +3,10 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on ...  <picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f609/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f609/512.gif" alt="😉" width="32" height="32">
+</picture>
 - 🌱 I’m currently learning WebDEv
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
