@@ -1,8 +1,6 @@
 # Hi, I'm Teja<picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.gif" alt="👋" width="32" height="32"></picture>
 
 <!-- Banner Image -->
-![Banner](https://media.licdn.com/dms/image/v2/D5603AQFR1-7pOfRBYw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1732377798067?e=1744848000&v=beta&t=OB8oA1rmQ3fPBnWlCsxVvdb2mGcNzJsoo3I6YDx3_5I)
-
 ## About Me
 
 I'm a passionate **Web Developer** who loves building modern and responsive web applications. I enjoy exploring new technologies, tackling challenging projects, and continuously learning. Currently, I'm working on full-stack projects and collaborating with other developers to create seamless digital experiences.
